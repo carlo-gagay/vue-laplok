@@ -1,0 +1,89 @@
+.error {
+  color: #f00;
+  background-color: #fff;
+}
+.eyespan {
+  float: right;
+  margin-right: 6px;
+  top: -34px;
+  position: relative;
+  z-index: 2;
+  color: black;
+}
+.page-wrapper {
+  padding-bottom: 0;
+}
+.page-content--bge5 {
+  background: url('../images/BG.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+}
+/* .navbar {
+            height: 155px;
+        }
+        .navbar-brand img{
+            min-width:255px;
+        }*/
+
+.banner {
+  text-align: center;
+}
+#frmLogin h2 {
+  font-family: 'Manrope';
+  font-size: 21px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+#frmLogin .banner > h2 {
+  font-size: 30px;
+  font-family: 'Manrope';
+  font-weight: bold;
+}
+
+#frmLogin .banner > h3 {
+  font-family: 'Manrope';
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 18px;
+  margin-bottom: 25px;
+  color: #666;
+}
+
+#forgot_password {
+  color: #2078bb;
+  font-family: 'Manrope';
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.container {
+  padding-bottom: 162px;
+  padding-top: 40px;
+}
+.login-wrap {
+  padding-top: 0;
+}
+.social-login-content {
+  border-bottom: 0;
+  padding-top: 15px;
+}
+.social-login-content p {
+  font-family: 'Manrope';
+  font-size: 15px;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.form-group label {
+  font-family: 'Manrope';
+  font-size: 20px;
+  font-weight: 600;
+}
+.login-checkbox {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}

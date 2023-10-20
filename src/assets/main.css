@@ -1,0 +1,19 @@
+@import './base.css';
+
+/* Styles */
+@import './styles/font-face.css';
+/* @import './styles/font-awesome.min.css';
+@import './styles/font-awesome.all.css'; */
+@import './styles/material-design-iconnic-font.min.css';
+@import './styles/bootstrap.min.css';
+@import './styles/animsition.min.css';
+@import './styles/animate.css';
+@import './styles/hamburgers.min.css';
+@import './styles/perfect-scrollbar.css';
+@import './styles/sweetalert.min.css';
+@import './styles/loader.css';
+@import './styles/theme.css';
+@import './styles/style.css';
+
+@import './styles/boxicons.min.css';
+@import './styles/transformations.min.css';
